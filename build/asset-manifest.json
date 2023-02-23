@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactApp/suggest-me/static/css/main.917810cf.css",
+    "main.js": "/ReactApp/suggest-me/static/js/main.0a23dd79.js",
+    "static/media/Background.svg": "/ReactApp/suggest-me/static/media/Background.3fb4d72676ba677adaa7.svg",
+    "static/media/Star.svg": "/ReactApp/suggest-me/static/media/Star.038ec935cd94cbc437de53465abdc393.svg",
+    "index.html": "/ReactApp/suggest-me/index.html",
+    "static/media/favicon-16x16.svg": "/ReactApp/suggest-me/static/media/favicon-16x16.d9fa134f167d7bf892896733e7d76113.svg",
+    "main.917810cf.css.map": "/ReactApp/suggest-me/static/css/main.917810cf.css.map",
+    "main.0a23dd79.js.map": "/ReactApp/suggest-me/static/js/main.0a23dd79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.917810cf.css",
+    "static/js/main.0a23dd79.js"
+  ]
+}
